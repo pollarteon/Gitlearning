@@ -1,0 +1,9 @@
+body{
+    background: magenta;
+    color: white;
+    text-shadow: 1em 1em 1em grey;
+    text-align: center;
+}
+h1{
+    background-color: chartreuse;
+}
